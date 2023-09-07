@@ -4,6 +4,50 @@
 
 Diseña el diagrama de clases UML que represente la clase ```Fracción``` en C++ de acuerdo a los requerimientos adjuntos.
 
+## Ejemplo de ejecución
+
+```
+Arreglo de 5 fracciones
+-----------------------
+Fraccion 1:
+Numerador:
+1
+Denominador:
+2
+Fraccion 2:
+Numerador:
+2
+Denominador:
+3
+Fraccion 3:
+Numerador:
+3
+Denominador:
+4
+Fraccion 4:
+Numerador:
+4
+Denominador:
+5
+Fraccion 5:
+Numerador:
+5
+Denominador:
+6
+Fracciones capturadas:
+1/2=0.5
+2/3=0.666667
+3/4=0.75
+4/5=0.8
+5/6=0.833333
+Sumando la primera y la segunda fracción:
+7/6=1.16667
+Sumando la tercera y la cuarta fracción:
+31/20=1.55
+Sumando la quinta y la primera fracción:
+4/3=1.33333
+```
+
 ## Diagrama de Clases
 
 ```mermaid
