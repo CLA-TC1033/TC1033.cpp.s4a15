@@ -3,9 +3,5 @@
 
 int main()
 {
-    Fraccion f(2,3);
-
-    f.imprimeFraccion();
-
-    //Programa aqui el arreglo de fracciones
+    return 0;
 }
