@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Fraccion.hpp"
+#include "opFraccion.hpp"
 
 int main()
 {
