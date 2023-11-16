@@ -58,6 +58,13 @@ classDiagram
       Clase: +op1()
       Clase: +op2()
 ```
+Referencia: [Diagrama de clases UML con Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
+
+# Diagrama de clases UML con draw.io
+
+El repositorio está configurado para crear Diagramas de clases UML con ```draw.io```. Para usarlo simplemente agrega un archivo con extensión ```.drawio.png```, das doble clic sobre el mismo y se activará el editor ```draw.io``` incrustado en ```VSCode``` para edición. Asegúrate de agregar las formas UML en el menú de formas del lado izquierdo (opción ```+Más formas```).
+
+Para más información consulta el [MarketPlace](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio).
 
 ## Objetivo
 
