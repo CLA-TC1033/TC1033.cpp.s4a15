@@ -5,11 +5,9 @@
 				"vadimcn.vscode-lldb",
 				"ms-vscode.cpptools",
 				"analytic-signal.preview-pdf",
-				"GitHub.copilot",
 				"bierner.markdown-mermaid",
 				"mhutchie.git-graph",
-				"hediet.vscode-drawio",
-				"ms-vscode.copilot-mermaid-diagram"
+				"hediet.vscode-drawio"
 			]
 		}
 	}
